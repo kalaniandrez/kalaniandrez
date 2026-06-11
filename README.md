@@ -10,6 +10,7 @@ Founder @ [Behike](https://behike.co) · Computer Engineering @ PUPR · vibe cod
 - 🧠 [**three-memory**](https://github.com/kalaniandrez/three-memory): mi framework de memoria para agentes de IA que no olvidan quiénes son
 - 🎙️ [**transcribe**](https://github.com/kalaniandrez/transcribe): transcripción offline afinada para español caribeño, con guardia anti alucinaciones
 - 🔀 [**ai-bridge**](https://github.com/kalaniandrez/ai-bridge): Claude, Codex y Gemini consultándose entre sí desde la terminal
+- 🌳 [**keep-building**](https://github.com/kalaniandrez/keep-building): cuando una IA llega a su límite, checkpoint y le pasas el mismo repo a la próxima
 
 ## Dónde enseño
 
