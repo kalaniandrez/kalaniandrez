@@ -4,6 +4,14 @@ Construyo **Empleados de IA** para negocios reales y enseño IA en español.
 
 Founder @ [Behike](https://behike.co) · Computer Engineering @ PUPR · vibe coding en español
 
+<p align="center">
+  <a href="https://kalani.place/mundo">
+    <img src="planet.gif" alt="kalani.place como un planeta 3D caminable — WASD o arrastra para explorar" width="640">
+  </a>
+</p>
+
+<p align="center"><sub>Camina mi sitio como un planeta 3D → <a href="https://kalani.place/mundo"><b>kalani.place/mundo</b></a></sub></p>
+
 ## Qué construyo
 
 - 🤖 [**behike.ai**](https://behike.ai): Empleados de IA para empresas, entrenados en tu operación real
